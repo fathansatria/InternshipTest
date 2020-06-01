@@ -1,0 +1,31 @@
+Nama : Fathan Satria Anandika
+email : fathansatriaanandika@gmail.com
+
+1. Apa saja library Android yang sering atau biasa anda pakai? Jelaskan kegunaannya bagi
+anda !
+
+2. Apakah anda menggunakan prinsip clean code atau design pattern untuk project
+Android anda? Jelaskan penerapan clean code atau design pattern yang biasa anda
+gunakan dan manfaatnya untuk anda !
+
+Jawaban :
+
+1. Library yang sering saya gunakan diantaranya :
+    - Retrofit, merupakan library yang dapat mempermudah pengambilan data dari API sebab,
+      data yang berasal dari API dapat diubah langsung menjadi Object sesuai model yang dibuat
+    - Glide, merupakan library yang dapat mempermudah pengambilan gambar yang bersumber dari URI atau URL,
+      dan mengubah gambar tersebut sesuai ukuran containernya/viewnya
+    - Circle Image, merupakan library yang memungkinkan untuk membuat image menjadi berbentuk lingkaran
+    - ROOM database, merupakan library yang berfungsi untuk pengambilan data secara local pada memori hp,
+      dan data tersebut dapat disesuaikan langsung dengan bentuk model yang telah dibuat
+    - Okhttp, dapat membantu untuk melihat detail dari masuk atau keluar data dari API yang diberikan
+    - AndroidMP Chart, membantu merepresentasikan data dengan visualisasi bergaya statistik
+    - Dan banyak library lainnya untuk keperluan user interface agar lebih baik
+
+2. Pada Android Programing, saya mengimplemntasikan Desain Pattern atau Clean Code pada :
+    - Menggunakan arsitektur MVVM. Menggunakan MVVM yang mana merupakan architecture yang disarankan oleh google developer,
+      merupakan implemntasi Desain pattern pada bagian Behavioral Pattern. Menggunakan MVVM membuat code untuk tampilan, logic, data,
+      menjadi terpisah sehingga jika terjadi error dapat di identifikasi dengan mudah
+    - Menggunakan builder pattern, yaitu salah satu wujud cretional pattern pada desain pattern. Dengan builder pattern, jika ingin
+      membuat object menggunakan method yang di dalam class tersebut, sehingga, kita tidak perlu untuk membuat object berkali-kali disetiap saat
+    - Mengusahakan line of code pada suatu file atua modul tidak lebih dari 300 line, hal ini sangat membantu pada saat proses bug fixing atau testing. 

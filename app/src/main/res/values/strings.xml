@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InternshipTestFathan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list">list</string>
+    <string name="gallery">Gallery</string>
+    <string name="profile">Profile</string>
+    <string name="internship_test_fathan">Internship Test Fathan</string>
+</resources>
